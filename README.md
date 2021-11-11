@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+I got started in programming during an undergraduate course called "Computing for Engineers" while getting my bachelors in Mechanical Engineering. I started with playing around on the terminal, then to object oriented program from Youtube tutorials, then to getting familar with machine learning libraries by reading articles, finally, following the Deep Learning for Coders book along with CNN tutorials online. I am currently in a mentorship through the Sharpestminds platform to enhance my programming skills, specifically with data for data science positions. 
+
+I do have some technical knowledge about machine learning through my Calculus courses taken during undergrad as well as meeting with a Mathematics professor once a week where our focus was in Artificial Neural Networks in R where we discussed the Math in the artificial architecture behind neural networks. 
+
+📫 How to reach me: benjaminbrown038@gmail.com
+
+
 <!--
 **benjaminbrown038/benjaminbrown038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
