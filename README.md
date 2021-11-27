@@ -7,6 +7,10 @@ I do have some technical knowledge about machine learning through my Calculus co
 
 📫 How to reach me: benjaminbrown038@gmail.com
 
+If there is somewhere within my repos that there can be credit given to a collaborator that I have not specified, please create an issue and I will jump on it. The leaders of this community deserve their recognition. 
+
+I am merely standing on their shoulders.  
+
 
 <!--
 **benjaminbrown038/benjaminbrown038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
