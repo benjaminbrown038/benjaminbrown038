@@ -9,7 +9,6 @@ I do have some technical knowledge about machine learning through my Calculus co
 
 If there is somewhere within my repos that there can be credit given to a collaborator that I have not specified, please create an issue and I will jump on it. The leaders of this community deserve their recognition. 
 
-I am merely standing on their shoulders.  
 
 
 <!--
