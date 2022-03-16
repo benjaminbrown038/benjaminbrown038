@@ -1,7 +1,7 @@
 ### Hi there, my name is Benjamin Brown! 👋
 
 
-I got started in programming during an undergraduate course called "Computing for Engineers" while getting my bachelors in Mechanical Engineering. I started with playing around on the terminal, then to object oriented program from Youtube tutorials, then to getting familar with machine learning libraries by reading articles. Finally, I got in touch with a mentor on Sharpestminds and he recommend me following Deep Learning for Coders by Jeremy Howard and Sylvain Gugger along with CNN tutorials online. I am currently in a mentorship through the Sharpestminds platform to enhance my programming skills, specifically with data for data science positions. My long term goal is to apply my skills thus far to solving physics problem within this domain.
+I got started in programming during an undergraduate course called "Computing for Engineers" while getting my bachelors in Mechanical Engineering. I started with playing around on the terminal, then to object oriented program from Youtube tutorials, then to getting familar with machine learning libraries by reading articles. Finally, I got in touch with a mentor on Sharpestminds and he recommend me following Deep Learning for Coders by Jeremy Howard and Sylvain Gugger along with CNN tutorials online.
 
 I do have some technical knowledge about machine learning through my Calculus courses taken during undergrad as well as meeting with a Mathematics professor once a week where our focus was in Artificial Neural Networks in R where we discussed the Math in the artificial architecture behind neural networks. 
 
